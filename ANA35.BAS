@@ -1,0 +1,58 @@
+SCREEN 9
+PRINT "                          "
+PRINT "                          "
+PRINT "    0                 *<*       "
+PRINT "   /)\                /(\      "
+PRINT "   /'\                /'\      "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                          "
+PRINT "                          "
+PRINT "    0                  <*       "
+PRINT "   /)\                /(|      "
+PRINT "   /'\                |'\      "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    0               <*נננ          "
+PRINT "   /)\              ~`)ננ             "
+PRINT "   /'\                <\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    0          <*נננ<*נננ          "
+PRINT "   /)\         ~`)ננ~`)ננ             "
+PRINT "   /'\           <\נננ<\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    0      _=ננ<*נננ<*נננ          "
+PRINT "   /)\    v/)ננ~`)ננ~`)ננ             "
+PRINT "   /'\      <\נננ<\נננ<\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    0   /_נ_=ננ<*נננ<*נננ          "
+PRINT "   /)\ (/נv/)ננ~`)ננ~`)ננ             "
+PRINT "   /'\ *vנננ<\נננ<\נננ<\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    0 \| _נ_=ננ<*נננ<*נננ          "
+PRINT "   /)\\) נv/)ננ~`)ננ~`)ננ             "
+PRINT "   /'\ ^*נננ<\נננ<\נננ<\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+PRINT "                                 "
+PRINT "                                  "
+PRINT "    ננ\| _נ_=ננ<*נננ<*נננ          "
+PRINT "  ננננ\) נv/)ננ~`)ננ~`)ננ             "
+PRINT "  -/(\)^*נננ<\נננ<\נננ<\נ            "
+PRINT "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+FOR p = 1 TO 250: NEXT p: LOCATE 1, 1
+
